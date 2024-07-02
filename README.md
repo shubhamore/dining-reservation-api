@@ -24,8 +24,8 @@ This project is a dining reservation system API built with Node.js, Express, and
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/dining-reservation-system.git
-cd dining-reservation-system
+git clone https://github.com/shubhamore/workindia.git
+cd workindia
 ```
 
 ### Step 2: Create a `.env` file
