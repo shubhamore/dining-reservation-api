@@ -1,0 +1,228 @@
+2024-07-02T03:08:44.465Z info: Server is running on http://localhost:8080
+2024-07-02T03:08:44.609Z error: Failed to synchronize database:  Unknown database 'zomato'
+2024-07-02T03:08:48.784Z info: Server is running on http://localhost:8080
+2024-07-02T03:08:48.837Z error: Failed to synchronize database:  Unknown database 'zomato'
+2024-07-02T03:09:29.846Z info: Server is running on http://localhost:8080
+2024-07-02T03:09:30.145Z info: Database synchronized successfully.
+2024-07-02T03:10:52.380Z info: Server is running on http://localhost:8080
+2024-07-02T03:10:52.497Z info: Database synchronized successfully.
+2024-07-02T03:11:29.141Z info: Server is running on http://localhost:8080
+2024-07-02T03:11:29.248Z info: Database synchronized successfully.
+2024-07-02T03:11:40.794Z info: Server is running on http://localhost:8080
+2024-07-02T03:11:41.027Z info: Database synchronized successfully.
+2024-07-02T03:13:45.847Z info: Server is running on http://localhost:8080
+2024-07-02T03:13:46.237Z info: Database synchronized successfully.
+2024-07-02T03:14:09.248Z info: Server is running on http://localhost:8080
+2024-07-02T03:14:09.332Z info: Database synchronized successfully.
+2024-07-02T03:14:32.724Z info: Server is running on http://localhost:8080
+2024-07-02T03:14:32.814Z info: Database synchronized successfully.
+2024-07-02T03:16:31.607Z info: Server is running on http://localhost:8080
+2024-07-02T03:16:31.696Z info: Database synchronized successfully.
+2024-07-02T03:17:10.470Z info: Server is running on http://localhost:8080
+2024-07-02T03:17:10.567Z info: Database synchronized successfully.
+2024-07-02T03:17:35.979Z info: Server is running on http://localhost:8080
+2024-07-02T03:17:36.122Z info: Database synchronized successfully.
+2024-07-02T03:18:27.533Z info: Server is running on http://localhost:8080
+2024-07-02T03:18:27.625Z info: Database synchronized successfully.
+2024-07-02T03:18:31.569Z info: Server is running on http://localhost:8080
+2024-07-02T03:18:31.657Z info: Database synchronized successfully.
+2024-07-02T03:18:59.006Z info: Server is running on http://localhost:8080
+2024-07-02T03:18:59.112Z info: Database synchronized successfully.
+2024-07-02T03:19:20.742Z info: Server is running on http://localhost:8080
+2024-07-02T03:19:20.843Z info: Database synchronized successfully.
+2024-07-02T03:19:23.322Z info: Server is running on http://localhost:8080
+2024-07-02T03:19:23.402Z info: Database synchronized successfully.
+2024-07-02T03:22:25.287Z info: Server is running on http://localhost:8080
+2024-07-02T03:22:25.400Z info: Database synchronized successfully.
+2024-07-02T03:22:26.933Z info: Server is running on http://localhost:8080
+2024-07-02T03:22:27.008Z info: Database synchronized successfully.
+2024-07-02T03:22:30.664Z info: Server is running on http://localhost:8080
+2024-07-02T03:22:30.762Z info: Database synchronized successfully.
+2024-07-02T03:23:03.384Z info: Server is running on http://localhost:8080
+2024-07-02T03:23:03.478Z info: Database synchronized successfully.
+2024-07-02T03:24:26.296Z info: Server is running on http://localhost:8080
+2024-07-02T03:24:27.084Z info: Server is running on http://localhost:8080
+2024-07-02T03:24:27.212Z info: Database synchronized successfully.
+2024-07-02T03:26:18.813Z info: Server is running on http://localhost:8080
+2024-07-02T03:26:18.929Z info: Database synchronized successfully.
+2024-07-02T03:26:48.328Z info: Server is running on http://localhost:8080
+2024-07-02T03:26:48.405Z info: Database synchronized successfully.
+2024-07-02T03:26:53.059Z info: Server is running on http://localhost:8080
+2024-07-02T03:26:53.213Z info: Database synchronized successfully.
+2024-07-02T03:28:20.789Z info: Server is running on http://localhost:8080
+2024-07-02T03:28:20.873Z info: Database synchronized successfully.
+2024-07-02T03:29:04.710Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:04.805Z info: Database synchronized successfully.
+2024-07-02T03:29:12.136Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:12.259Z info: Database synchronized successfully.
+2024-07-02T03:29:21.030Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:21.151Z info: Database synchronized successfully.
+2024-07-02T03:29:30.151Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:30.245Z info: Database synchronized successfully.
+2024-07-02T03:29:33.864Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:33.944Z info: Database synchronized successfully.
+2024-07-02T03:29:44.475Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:44.570Z info: Database synchronized successfully.
+2024-07-02T03:29:49.849Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:49.937Z info: Database synchronized successfully.
+2024-07-02T03:29:54.540Z info: Server is running on http://localhost:8080
+2024-07-02T03:29:54.623Z info: Database synchronized successfully.
+2024-07-02T03:30:11.533Z info: Server is running on http://localhost:8080
+2024-07-02T03:30:11.627Z info: Database synchronized successfully.
+2024-07-02T03:30:25.209Z info: Server is running on http://localhost:8080
+2024-07-02T03:30:25.288Z info: Database synchronized successfully.
+2024-07-02T03:30:28.666Z info: Server is running on http://localhost:8080
+2024-07-02T03:30:28.753Z info: Database synchronized successfully.
+2024-07-02T03:30:29.823Z info: Server is running on http://localhost:8080
+2024-07-02T03:30:29.915Z info: Database synchronized successfully.
+2024-07-02T03:32:07.435Z info: Server is running on http://localhost:8080
+2024-07-02T03:32:07.514Z info: Database synchronized successfully.
+2024-07-02T03:35:24.163Z info: Server is running on http://localhost:8080
+2024-07-02T03:35:24.293Z info: Database synchronized successfully.
+2024-07-02T03:35:26.275Z info: Server is running on http://localhost:8080
+2024-07-02T03:35:26.362Z info: Database synchronized successfully.
+2024-07-02T03:37:21.726Z info: Server is running on http://localhost:8080
+2024-07-02T03:37:21.806Z info: Database synchronized successfully.
+2024-07-02T03:37:27.394Z info: Server is running on http://localhost:8080
+2024-07-02T03:37:27.479Z info: Database synchronized successfully.
+2024-07-02T03:37:42.978Z info: Server is running on http://localhost:8080
+2024-07-02T03:37:43.075Z info: Database synchronized successfully.
+2024-07-02T03:37:47.075Z info: Server is running on http://localhost:8080
+2024-07-02T03:37:47.162Z info: Database synchronized successfully.
+2024-07-02T03:37:58.553Z info: Server is running on http://localhost:8080
+2024-07-02T03:37:58.650Z info: Database synchronized successfully.
+2024-07-02T03:38:18.466Z info: Server is running on http://localhost:8080
+2024-07-02T03:38:18.571Z info: Database synchronized successfully.
+2024-07-02T03:47:27.030Z info: Server is running on http://localhost:8080
+2024-07-02T03:47:27.141Z info: Database synchronized successfully.
+2024-07-02T03:50:21.039Z info: Server is running on http://localhost:8080
+2024-07-02T03:50:21.166Z info: Database synchronized successfully.
+2024-07-02T03:50:53.166Z info: Server is running on http://localhost:8080
+2024-07-02T03:50:53.437Z info: Database synchronized successfully.
+2024-07-02T03:52:43.471Z info: Server is running on http://localhost:8080
+2024-07-02T03:52:43.560Z info: Database synchronized successfully.
+2024-07-02T03:52:47.334Z info: Server is running on http://localhost:8080
+2024-07-02T03:52:47.490Z info: Database synchronized successfully.
+2024-07-02T03:52:49.459Z info: Server is running on http://localhost:8080
+2024-07-02T03:52:49.552Z info: Database synchronized successfully.
+2024-07-02T03:52:56.421Z info: Server is running on http://localhost:8080
+2024-07-02T03:52:56.544Z info: Database synchronized successfully.
+2024-07-02T03:52:58.276Z info: Server is running on http://localhost:8080
+2024-07-02T03:52:58.356Z info: Database synchronized successfully.
+2024-07-02T03:53:15.378Z info: Server is running on http://localhost:8080
+2024-07-02T03:53:15.459Z info: Database synchronized successfully.
+2024-07-02T03:53:19.293Z info: Server is running on http://localhost:8080
+2024-07-02T03:53:19.378Z info: Database synchronized successfully.
+2024-07-02T03:53:23.899Z info: Server is running on http://localhost:8080
+2024-07-02T03:53:23.999Z info: Database synchronized successfully.
+2024-07-02T03:53:28.499Z info: Server is running on http://localhost:8080
+2024-07-02T03:53:28.580Z info: Database synchronized successfully.
+2024-07-02T03:53:41.599Z info: Server is running on http://localhost:8080
+2024-07-02T03:53:41.677Z info: Database synchronized successfully.
+2024-07-02T03:53:46.253Z info: Server is running on http://localhost:8080
+2024-07-02T03:53:46.334Z info: Database synchronized successfully.
+2024-07-02T03:58:15.782Z info: Server is running on http://localhost:8080
+2024-07-02T03:58:15.850Z info: Database synchronized successfully.
+2024-07-02T03:59:02.287Z info: Server is running on http://localhost:8080
+2024-07-02T03:59:02.374Z info: Database synchronized successfully.
+2024-07-02T03:59:14.431Z info: Server is running on http://localhost:8080
+2024-07-02T03:59:14.555Z info: Database synchronized successfully.
+2024-07-02T03:59:24.427Z info: Server is running on http://localhost:8080
+2024-07-02T03:59:24.522Z info: Database synchronized successfully.
+2024-07-02T04:02:07.731Z info: Server is running on http://localhost:8080
+2024-07-02T04:02:07.843Z info: Database synchronized successfully.
+2024-07-02T04:04:45.144Z info: Server is running on http://localhost:8080
+2024-07-02T04:04:45.457Z info: Database synchronized successfully.
+2024-07-02T04:05:58.704Z info: Server is running on http://localhost:8080
+2024-07-02T04:05:58.803Z info: Database synchronized successfully.
+2024-07-02T04:06:00.872Z info: Server is running on http://localhost:8080
+2024-07-02T04:06:01.032Z info: Database synchronized successfully.
+2024-07-02T04:06:05.952Z info: Server is running on http://localhost:8080
+2024-07-02T04:06:06.054Z info: Database synchronized successfully.
+2024-07-02T04:09:17.039Z info: Server is running on http://localhost:8080
+2024-07-02T04:09:17.135Z info: Database synchronized successfully.
+2024-07-02T04:09:49.553Z info: Server is running on http://localhost:8080
+2024-07-02T04:09:49.644Z info: Database synchronized successfully.
+2024-07-02T04:14:11.427Z info: Server is running on http://localhost:8080
+2024-07-02T04:14:11.549Z info: Database synchronized successfully.
+2024-07-02T04:14:13.582Z info: Server is running on http://localhost:8080
+2024-07-02T04:14:13.676Z info: Database synchronized successfully.
+2024-07-02T04:14:46.740Z info: Server is running on http://localhost:8080
+2024-07-02T04:14:46.829Z info: Database synchronized successfully.
+2024-07-02T04:15:27.316Z info: Server is running on http://localhost:8080
+2024-07-02T04:15:27.472Z info: Database synchronized successfully.
+2024-07-02T04:16:02.833Z info: Server is running on http://localhost:8080
+2024-07-02T04:16:02.920Z info: Database synchronized successfully.
+2024-07-02T04:16:18.171Z info: Server is running on http://localhost:8080
+2024-07-02T04:16:18.313Z info: Database synchronized successfully.
+2024-07-02T04:17:01.700Z info: Server is running on http://localhost:8080
+2024-07-02T04:17:01.794Z info: Database synchronized successfully.
+2024-07-02T04:17:04.471Z info: Server is running on http://localhost:8080
+2024-07-02T04:17:04.561Z info: Database synchronized successfully.
+2024-07-02T04:18:02.280Z info: Server is running on http://localhost:8080
+2024-07-02T04:18:02.383Z info: Database synchronized successfully.
+2024-07-02T04:18:04.390Z info: Server is running on http://localhost:8080
+2024-07-02T04:18:04.492Z info: Database synchronized successfully.
+2024-07-02T04:19:25.038Z info: Server is running on http://localhost:8080
+2024-07-02T04:19:25.148Z info: Database synchronized successfully.
+2024-07-02T04:19:34.953Z info: Server is running on http://localhost:8080
+2024-07-02T04:19:35.094Z info: Database synchronized successfully.
+2024-07-02T04:21:18.432Z info: Server is running on http://localhost:8080
+2024-07-02T04:21:18.535Z info: Database synchronized successfully.
+2024-07-02T04:21:21.613Z info: Server is running on http://localhost:8080
+2024-07-02T04:21:21.715Z info: Database synchronized successfully.
+2024-07-02T04:21:25.312Z info: Server is running on http://localhost:8080
+2024-07-02T04:21:25.397Z info: Database synchronized successfully.
+2024-07-02T04:24:13.329Z info: Server is running on http://localhost:8080
+2024-07-02T04:24:13.404Z info: Database synchronized successfully.
+2024-07-02T04:27:11.123Z info: Server is running on http://localhost:8080
+2024-07-02T04:27:11.213Z info: Database synchronized successfully.
+2024-07-02T04:27:22.605Z info: Server is running on http://localhost:8080
+2024-07-02T04:27:22.689Z info: Database synchronized successfully.
+2024-07-02T04:36:29.284Z info: Server is running on http://localhost:8080
+2024-07-02T04:36:29.372Z info: Database synchronized successfully.
+2024-07-02T04:36:32.143Z info: Server is running on http://localhost:8080
+2024-07-02T04:36:32.953Z info: Server is running on http://localhost:8080
+2024-07-02T04:36:33.053Z info: Database synchronized successfully.
+2024-07-02T04:37:50.624Z info: Server is running on http://localhost:8080
+2024-07-02T04:37:50.711Z info: Database synchronized successfully.
+2024-07-02T04:39:16.165Z info: Server is running on http://localhost:8080
+2024-07-02T04:39:16.270Z info: Database synchronized successfully.
+2024-07-02T04:39:21.456Z info: Server is running on http://localhost:8080
+2024-07-02T04:39:21.545Z info: Database synchronized successfully.
+2024-07-02T04:39:26.292Z info: Server is running on http://localhost:8080
+2024-07-02T04:39:26.386Z info: Database synchronized successfully.
+2024-07-02T04:43:29.261Z info: Server is running on http://localhost:8080
+2024-07-02T04:43:29.366Z info: Database synchronized successfully.
+2024-07-02T04:46:18.108Z info: Server is running on http://localhost:8080
+2024-07-02T04:46:18.353Z info: Database synchronized successfully.
+2024-07-02T04:50:06.594Z info: Server is running on http://localhost:8080
+2024-07-02T04:50:06.685Z info: Database synchronized successfully.
+2024-07-02T04:50:10.946Z info: Server is running on http://localhost:8080
+2024-07-02T04:50:11.049Z info: Database synchronized successfully.
+2024-07-02T04:52:10.799Z info: Server is running on http://localhost:8080
+2024-07-02T04:52:11.017Z info: Database synchronized successfully.
+2024-07-02T04:59:15.750Z info: Server is running on http://localhost:8080
+2024-07-02T04:59:15.837Z info: Database synchronized successfully.
+2024-07-02T04:59:55.062Z info: Server is running on http://localhost:8080
+2024-07-02T04:59:55.351Z info: Database synchronized successfully.
+2024-07-02T05:01:43.730Z info: Server is running on http://localhost:8080
+2024-07-02T05:01:43.857Z info: Database synchronized successfully.
+2024-07-02T05:01:44.628Z info: Server is running on http://localhost:8080
+2024-07-02T05:01:44.714Z info: Database synchronized successfully.
+2024-07-02T05:01:59.327Z info: Server is running on http://localhost:8080
+2024-07-02T05:01:59.408Z info: Database synchronized successfully.
+2024-07-02T05:02:02.371Z info: Server is running on http://localhost:8080
+2024-07-02T05:02:02.490Z info: Database synchronized successfully.
+2024-07-02T05:03:04.633Z info: Server is running on http://localhost:8080
+2024-07-02T05:03:04.724Z info: Database synchronized successfully.
+2024-07-02T05:03:06.246Z info: Server is running on http://localhost:8080
+2024-07-02T05:03:06.346Z info: Database synchronized successfully.
+2024-07-02T05:03:09.420Z info: Server is running on http://localhost:8080
+2024-07-02T05:03:09.524Z info: Database synchronized successfully.
+2024-07-02T05:03:51.377Z info: Server is running on http://localhost:8080
+2024-07-02T05:03:51.466Z info: Database synchronized successfully.
+2024-07-02T05:05:48.154Z info: Server is running on http://localhost:8080
+2024-07-02T05:05:48.229Z info: Database synchronized successfully.
+2024-07-02T05:06:45.401Z info: Server is running on http://localhost:8080
+2024-07-02T05:06:45.493Z info: Database synchronized successfully.
